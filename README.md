@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TildaY
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in machine learning, deep learning, NLP, big data analytics
+- 🌱 I’m masters of data science
+- 💞️ I’m looking to collaborate on NLP
+- 📫 Please reach me via tildayu@hotmail.com
 
 <!---
 TildaY/TildaY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
